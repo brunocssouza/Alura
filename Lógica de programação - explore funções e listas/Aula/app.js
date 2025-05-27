@@ -1,5 +1,5 @@
 let numerosJaSorteados = [];
-const numeroMaximo = 3
+const numeroMaximo = 10
 
 function editarMensagem(tag, texto) {
     const elemento = document.querySelector(tag);
